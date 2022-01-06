@@ -16,6 +16,8 @@ body {
 
 .image-container {
   display: flex;
+  transition: transfrom 0.9 linear;
+  transform: translateX(0);
 }
 
 img {
